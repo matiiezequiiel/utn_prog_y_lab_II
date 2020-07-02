@@ -13,8 +13,6 @@ namespace ConsoleApplication1
             for (int i = 1000; i > 100; i--)
             {
                 Console.WriteLine(i);
-                Console.WriteLine("Prueba Github");
-                Console.ReadKey();
             }
 
         }
