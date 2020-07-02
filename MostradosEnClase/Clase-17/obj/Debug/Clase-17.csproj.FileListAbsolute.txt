@@ -27,3 +27,10 @@ I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.c
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.csproj.CoreCompileInputs.cache
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.exe
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.pdb
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\bin\Debug\Clase-17.exe.config
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\bin\Debug\Clase-17.exe
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\bin\Debug\Clase-17.pdb
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.csprojAssemblyReference.cache
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.csproj.CoreCompileInputs.cache
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.exe
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-17\obj\Debug\Clase-17.pdb

@@ -14,3 +14,10 @@ I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\o
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\Clase-01.csproj.CoreCompileInputs.cache
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 I:\Multiled\UTN\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\Clase-01.csprojAssemblyReference.cache
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\Clase-01.csproj.CoreCompileInputs.cache
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\gyl\Source\Repos\matiiezequiiel\utn_prog_y_lab_II\MostradosEnClase\Clase-1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
